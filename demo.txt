@@ -1,1 +1,2 @@
 this is text doucument
+befor stash changes
