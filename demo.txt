@@ -1,2 +1,2 @@
 this is text doucument
-befor stash changes
+this text for check
